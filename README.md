@@ -8,7 +8,7 @@
 - [Data Bases](https://github.com/VasilicaMoldovan/DataBases)
 - [Logical and Functional Programming](https://github.com/VasilicaMoldovan/Logical-and-Functional-Programming)
 ## Semester 4 :sunny:
- -[Artificial Inteligence]
- -[Software Engineering]
- -[Systems for Design and Implementation]
- -[Web Programming]
+ -[Artificial Intelligence]()
+ -[Software Engineering]()
+ -[Systems for Design and Implementation]()
+ -[Web Programming]()
