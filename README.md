@@ -11,3 +11,9 @@
 - [Software Engineering](https://github.com/VasilicaMoldovan/SE)
 - [Systems for Design and Implementation](https://github.com/VasilicaMoldovan/MPP)
 - [Web Programming]()
+## Semester 5 :sunny:
+- [Formal Languages and Compiler Design](https://github.com/VasilicaMoldovan/FLCD)
+- [Mobile Programming]()
+- [Cryptography]()
+- [Virtual Reality]()
+- [Parallel and Distributed Programming](https://github.com/VasilicaMoldovan/PDP)
