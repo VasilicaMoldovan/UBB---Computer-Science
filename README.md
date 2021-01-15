@@ -15,5 +15,5 @@
 - [Formal Languages and Compiler Design](https://github.com/VasilicaMoldovan/FLCD)
 - [Mobile Programming]()
 - [Cryptography](https://github.com/VasilicaMoldovan/Cryptography)
-- [Virtual Reality]()
+- [Virtual Reality](https://github.com/VasilicaMoldovan/VR)
 - [Parallel and Distributed Programming](https://github.com/VasilicaMoldovan/PDP)
