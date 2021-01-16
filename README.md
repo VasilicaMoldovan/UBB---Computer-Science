@@ -13,7 +13,7 @@
 - [Web Programming]()
 ## Semester 5 :sunny:
 - [Formal Languages and Compiler Design](https://github.com/VasilicaMoldovan/FLCD)
-- [Mobile Programming]()
+- [Mobile Programming](https://github.com/VasilicaMoldovan/MA)
 - [Cryptography](https://github.com/VasilicaMoldovan/Cryptography)
 - [Virtual Reality](https://github.com/VasilicaMoldovan/VR)
 - [Parallel and Distributed Programming](https://github.com/VasilicaMoldovan/PDP)
